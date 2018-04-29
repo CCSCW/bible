@@ -1,0 +1,99 @@
+.tk {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 14pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tx_test {
+	FONT-SIZE: 10pt; COLOR: #000000; LINE-HEIGHT: 14pt; FONT-FAMILY: "TurkAz Latin Doulos"
+}
+.tk A {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.tk A:hover {
+	COLOR: #ed8600
+}
+.tka {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 14pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tka A {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.tka A:hover {
+	COLOR: #0074d2
+}
+.tkb {
+	FONT-SIZE: 10pt; COLOR: #000000; LINE-HEIGHT: 14pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tkb A {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.tkb A:hover {
+	COLOR: #ed8600
+}
+.tk2 {
+	FONT-SIZE: 9pt; COLOR: #e6f1ff; LINE-HEIGHT: 12pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tk2 A {
+	COLOR: #e6f1ff; TEXT-DECORATION: underline
+}
+.tk2 A:hover {
+	COLOR: #ffd43d
+}
+.tk3 {
+	FONT-SIZE: 9pt; COLOR: #005cda; LINE-HEIGHT: 14pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tk3 A {
+	COLOR: #005cda; TEXT-DECORATION: underline
+}
+.tk3 A:hover {
+	COLOR: #ed8600
+}
+.tk3 A:visited {
+	COLOR: #651b8b
+}
+.tk3b {
+	FONT-SIZE: 10pt; COLOR: #005cda; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tk3b A {
+	COLOR: #005cda; TEXT-DECORATION: underline
+}
+.tk3b A:hover {
+	COLOR: #ed8600
+}
+.tk3b A:visited {
+	COLOR: #651b8b
+}
+.tk4 {
+	FONT-SIZE: 9pt; COLOR: #5e5e5e; LINE-HEIGHT: 14pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tk4 A {
+	COLOR: #5e5e5e; TEXT-DECORATION: underline
+}
+.tk4 A:hover {
+	COLOR: #ed8600
+}
+.tk5 {
+	FONT-SIZE: 10pt; COLOR: #ed8000; LINE-HEIGHT: 14pt; FONT-FAMILY: ±¼¸²,seoul,helvetica; TEXT-DECORATION: none
+}
+.tks {
+	FONT-SIZE: 9pt; COLOR: #555555; LINE-HEIGHT: 14pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tks A {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+.tks A:hover {
+	COLOR: #aaaaff
+}
+.tk4br {
+	FONT-SIZE: 9pt; COLOR: #aa0000; LINE-HEIGHT: 18pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tk4l {
+	FONT-SIZE: 11pt; COLOR: #202020; LINE-HEIGHT: 18pt; FONT-FAMILY: ±¼¸²,seoul,helvetica
+}
+.tk4l A {
+	COLOR: #5e5eff; TEXT-DECORATION: underline
+}
+.tk4l A:hover {
+	COLOR: #ed8600
+}
+.tk4l A:visited {
+	COLOR: #651b8b
+}

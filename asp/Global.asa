@@ -1,0 +1,9 @@
+<script language = vbscript runat=server>
+
+sub Session_OnStart
+	session("user")="unkonw"
+	session("juan")="unkonw"
+	session("juan_id")="unkonw"
+        session("key")=""
+end sub
+</script>
